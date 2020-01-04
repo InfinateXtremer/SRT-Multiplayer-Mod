@@ -11,6 +11,10 @@
 		{
 			"Name": "LS113_MagicHome",
 			"Enabled": false
+		},
+		{
+			"Name": "GLTFImporter",
+			"Enabled": true
 		}
 	]
 }
