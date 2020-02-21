@@ -11,4 +11,5 @@ If you are willing to improve on this mod, depending on our decision, we can eit
 ## Disclaimer
 Spyro, Spyro Reignited Trilogy, Spyro The Dragon, Spyro 2 Ripto's Rage!, Spyro Year of the Dragon belongs to Activision Publishing, Inc. ~~source code pls~~
 
-For capture the flag: All maps belong to their respective owners, They are not affiliated this with project.
+For capture the flag: All maps belong to their respective owners, They are not affiliated this with project.  
+For Cynder alternate avatar: Made by FaithSDK, can be downloaded seperately from [here](https://www.moddb.com/games/spyro-reignited-trilogy/addons/reimagined-cynder).
